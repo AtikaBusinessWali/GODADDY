@@ -1,0 +1,11 @@
+[25-Aug-2025 16:14:12 UTC] Raw domain: .com, Sanitized domain: .com.com
+[25-Aug-2025 16:14:12 UTC] Validation failed for domain: .com.com, Error: Invalid domain format. Please enter a valid domain (e.g., example.com, my-site.co.uk, sub.domain.io).
+[26-Aug-2025 09:51:45 UTC] Raw domain: .com, Sanitized domain: .com.com
+[26-Aug-2025 09:51:45 UTC] Validation failed for domain: .com.com, Error: Invalid domain format. Please enter a valid domain (e.g., example.com, my-site.co.uk, sub.domain.io).
+[26-Aug-2025 12:48:49 UTC] Raw domain: .app, Sanitized domain: .app.com at 2025-08-26 12:48:49
+[26-Aug-2025 12:51:48 UTC] Raw domain: .com, Sanitized domain: .com.com at 2025-08-26 12:51:48
+[15-Sep-2025 09:54:45 UTC] Raw domain: .com, Sanitized domain: .com.com at 2025-09-15 09:54:45
+[15-Sep-2025 09:54:54 UTC] Raw domain: -online.com, Sanitized domain: -online.com at 2025-09-15 09:54:54
+[15-Sep-2025 09:55:06 UTC] Raw domain: .net, Sanitized domain: .net.com at 2025-09-15 09:55:06
+[15-Sep-2025 10:14:37 UTC] Raw domain: .com, Sanitized domain: .com.com at 2025-09-15 10:14:37
+[15-Sep-2025 10:14:46 UTC] Raw domain: -site.com, Sanitized domain: -site.com at 2025-09-15 10:14:46
